@@ -19,7 +19,7 @@ flask-restful==0.3.5
 flask-security==1.7.5
 flask-sqlalchemy==2.1
 flask-wtf==0.13.1         # via flask-security
-flask==0.11.1
+flask==2.2.5
 idna==2.5                 # via requests
 itsdangerous==0.24        # via flask, flask-security
 jinja2==2.8               # via flask
