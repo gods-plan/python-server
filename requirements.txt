@@ -6,7 +6,7 @@
 #
 aniso8601==1.2.0          # via flask-restful
 blinker==1.4              # via flask-mail, flask-principal
-certifi==2017.4.17        # via requests
+certifi==2023.7.22        # via requests
 chardet==3.0.4            # via requests
 click==6.6                # via flask, flask-appconfig
 flask-appconfig==0.11.1
